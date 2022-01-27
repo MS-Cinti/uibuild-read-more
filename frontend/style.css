@@ -1,0 +1,25 @@
+body{
+    background-color: #efd592;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    background-color: transparent;
+    border: #242d38;
+    border-style: solid;
+    border-width: 4px;
+    font-size: 16px;
+    color: #242d38;
+    letter-spacing: 0.2em;
+    font-family: 'Poppins', sans-serif;
+    width: 240px;
+    height: 50px;
+}
